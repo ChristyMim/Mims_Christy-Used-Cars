@@ -1,0 +1,48 @@
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\bin\Debug\Used Cars.exe.config
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\bin\Debug\Used Cars.exe
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\bin\Debug\Used Cars.pdb
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\bin\Debug\Used Cars.xml
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used Cars.vbprojResolveAssemblyReference.cache
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used_Cars.Form1.resources
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used_Cars.Resources.resources
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used Cars.vbproj.GenerateResource.Cache
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used Cars.exe
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used Cars.xml
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Programming Assignments\Used Cars\Used Cars\obj\Debug\Used Cars.pdb
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\bin\Debug\Used Cars.exe.config
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.exe
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.xml
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.pdb
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\bin\Debug\Used Cars.exe
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\bin\Debug\Used Cars.pdb
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\bin\Debug\Used Cars.xml
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.vbprojResolveAssemblyReference.cache
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used_Cars.Form1.resources
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used_Cars.Resources.resources
+C:\Users\craig.boden\Documents\## MGCCC\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.vbproj.GenerateResource.Cache
+E:\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\bin\Debug\Used Cars.exe.config
+E:\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.exe
+E:\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.xml
+E:\VISUAL BASIC (f2f)\Chapter 7\Example Source Code\Contacts\Used Cars\obj\Debug\Used Cars.pdb
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\bin\Debug\Used Cars.exe.config
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used Cars.exe
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used Cars.xml
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used Cars.pdb
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\bin\Debug\Used Cars.exe
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\bin\Debug\Used Cars.pdb
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\bin\Debug\Used Cars.xml
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used Cars.vbprojResolveAssemblyReference.cache
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used_Cars.Form1.resources
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used_Cars.Resources.resources
+C:\Users\jc-campus\Desktop\Documents\Documents\Contacts\Used Cars\obj\Debug\Used Cars.vbproj.GenerateResource.Cache
+E:\vbp\Contacts\Used Cars\bin\Debug\Used Cars.exe.config
+E:\vbp\Contacts\Used Cars\obj\Debug\Used Cars.exe
+E:\vbp\Contacts\Used Cars\obj\Debug\Used Cars.xml
+E:\vbp\Contacts\Used Cars\obj\Debug\Used Cars.pdb
+E:\vbp\Contacts\Used Cars\bin\Debug\Used Cars.exe
+E:\vbp\Contacts\Used Cars\bin\Debug\Used Cars.pdb
+E:\vbp\Contacts\Used Cars\bin\Debug\Used Cars.xml
+E:\vbp\Contacts\Used Cars\obj\Debug\Used Cars.vbprojResolveAssemblyReference.cache
+E:\vbp\Contacts\Used Cars\obj\Debug\Used_Cars.Resources.resources
+E:\vbp\Contacts\Used Cars\obj\Debug\Used Cars.vbproj.GenerateResource.Cache
+E:\vbp\Contacts\Used Cars\obj\Debug\Used_Cars.frmUsedCars.resources
